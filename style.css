@@ -1,1 +1,20 @@
+body{
+    justify-content: center;
+    padding: 150px 0 150px;
+    display: flex;
+    color: rgb(255, 255, 255);
+    background-color: aqua;
+}
 
+.contenedor{
+    background: black;
+    padding-inline: 50px;
+}
+
+.input-contenedor {
+     color: rgb(255, 255, 255);
+}
+
+.registrar {
+    color: rgb(255, 255, 255);
+}
